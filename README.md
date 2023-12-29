@@ -7,7 +7,7 @@ I`m just want to fun with code and I code in Lua, Py
 
 Here are some ideas to get you started: (thank you for ideas!)
 
-- 🔭 I’m currently working on idk
+- 🔭 I’m currently working on SSC (private project)
 - 🌱 I’m currently learning programming languages
 - 👯 I’m looking to collaborate with nobody
 - 🤔 I’m looking for help with FUCKING JAVA
