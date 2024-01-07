@@ -1,6 +1,5 @@
 ### Hi there 👋
 [![wakatime](https://wakatime.com/badge/user/318edbcd-1d83-4173-b4ef-f0dd523b7526.svg)](https://wakatime.com/@318edbcd-1d83-4173-b4ef-f0dd523b7526)
-[![test](https://pixel.chat/njg0uOGHEk5CkcR/abef33a4-15b8-4eae-a6ae-cc5c03b96379)]
 
 I`m just want to fun with code and I code in Lua, Py
 
