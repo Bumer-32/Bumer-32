@@ -7,7 +7,7 @@ I`m just want to fun with code and I code in Lua, Py and Kotlin)
 
 Here are some ideas to get you started: (thank you for ideas!)
 
-- 🔭 I’m currently working on SSC (private project)
+- 🔭 I’m currently working on Multiple projects
 - 🌱 I’m currently learning programming languages
 - 👯 I’m looking to collaborate with nobody
 - 🤔 I’m looking for help with FUCKING JAVA
