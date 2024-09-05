@@ -7,13 +7,13 @@ I`m just want to fun with code and I code in Lua, Py and Kotlin)
 
 Here are some ideas to get you started: (thank you for ideas!)
 
-- 🔭 I’m currently working on Multiple projects
-- 🌱 I’m currently learning Kotlin
+- 🔭 I’m currently working on Multiple projects, but main is <a href="https://github.com/Bumer-32/Redstone-Helper">Redstone Helper </a>
+- 🌱 I’m currently learning Kotlin and C/CPP
 - 👯 I’m looking to collaborate with nobody
-- 🤔 I’m looking for help with FUCKING JAVA
+- 🤔 I’m looking for help with C/CPP
 - 💬 Ask me about ... what?
 - 📫 How to reach me: my site with links: https://lumivoid.pp.ua
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him Artem
 - ⚡ Fun fact: i'm idiot 😜
 
 ---
